@@ -1,4 +1,4 @@
-# Aimone CD, Giauque H, Hawkes CV. Fungal symbionts generate water-saver and water-spender plant drought strategies via diverse effects on host gene expression.
+## Aimone CD, Giauque H, Hawkes CV. Fungal symbionts generate water-saver and water-spender plant drought strategies via diverse effects on host gene expression.
 
 
 ## Supplementary Data and Analysis
