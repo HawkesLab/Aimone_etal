@@ -37,7 +37,7 @@ wilt = Days to first wilt (d)
 death	= Days to first tiller death (survival)	(d)  
 waterloss	= Rate of plant water loss	(g/d)  
 totbiom	= Combined shoot and root dry biomass	(g)  
-leafcol	= Leaf colonization by fungi	(%)  
+leafcol	= proporation of eaf colonization by fungi
 
 All_DEGs_log2fc.csv – log2 fold-change data calculated on raw gene expression data plus one to avoid issues with zero values. All genes that were differentially expressed in at least one treatment are included for use in LASSO regression.  
 
